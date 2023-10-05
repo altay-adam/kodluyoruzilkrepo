@@ -22,5 +22,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Örnek Proje Fotoğrafı
-![github](pic.png)
+![github](foto.png)
 
