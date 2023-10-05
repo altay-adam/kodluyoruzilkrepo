@@ -18,4 +18,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![github](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+![Foto]([https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
