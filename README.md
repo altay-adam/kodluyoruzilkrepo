@@ -22,5 +22,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Örnek Proje Fotoğrafı
-![Foto]([https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+![Foto](pic/foto.png)
 
